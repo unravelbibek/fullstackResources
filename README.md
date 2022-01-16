@@ -3,7 +3,7 @@
 Here is the resource I've been following for fullstack developemnt. </br>
 may this helps anybody who are confused to pick the right resource. </br>
 
-Will add db and more backed soon. 
+Will add db and more backed stuff soon. 
 
 </br>
 
